@@ -19,6 +19,10 @@
 - Outdoor mapping and navigation using stereo vision, 2006
 - Probabilistic appearance based navigation and loop closing, 2007
 - Vision based mav navigation in unknown and unstructured environments, 2010
+- Adaptive mobile robot navigation and mapping, 1999
+- Visual-inertial navigation, mapping and localization: A scalable real-time causal approach, 2011
+- Autonomous mobile robot localization and navigation using a hierarchical map representation primarily guided by vision, 2014
+- Symbolic navigation with a generic map, 1999
 
 ## Map-less naviagtion
 - Reactive naviga- tion in outdoor environments using potential field, 1998
@@ -26,10 +30,14 @@
 - Robot motion control from a visual memory, 2004
 - Vision-based 3-d trajectory tracking for unknown environments, 2006
 
+## Traditional uncertain categories
+- The vector field histogram and fast obstacle-avoidance for mobile robots, 1991
+- A neural network based architecture for vision-guided mobile robot navigation using non-metrical models of the environment, 1993
+
 ## Feature-matching based navigation
 - View-based maps, 2010
 - Fast, robust, continuous monocular egomotion computation, 2016
-- Scene signatures: Lo- calised and point-less features for localisation, 2014
+- Scene signatures: Localised and point-less features for localisation, 2014
 - Made to measure: Bespoke landmarks for 24-hour, all-weather localisation with a camera, 2016
 
 ## Deep vision navigation
@@ -40,6 +48,8 @@
 - Visual representations for semantic target driven navigation, 2018
 - Visual semantic navigation using scene priors, 2019
 - Learning and planning with a semantic model, 2018
+- Deepnav: Learning to navigate large cities, 2017
+- Semi-parametric topological memory for navigation, 2018
 
 # Navigation with language
 - Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments, 2018
@@ -47,3 +57,4 @@
 - Grounded language learning in a simulated 3d world, 2017
 - Interactive grounded language acquisition and generalization in a 2d world, 2018
 - Mapping instructions and visual observations to actions with reinforcement learning, 2017
+- Listen, attend, and walk: Neural mapping of navigational instructions to action sequences, 2016
